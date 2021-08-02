@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BeerSearch</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="list_fragment_label">List Fragment</string>
+    <string name="detail_fragment_label">Detail Fragment</string>
+    <string name="Search">Search</string>
+    <string name="previous">Previous</string>
+
+</resources>
